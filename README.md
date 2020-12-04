@@ -1,4 +1,4 @@
-# Defect-Analysis-of-Electric-Circuit-Boards-using-Statistical-Process-Control-SPC-for-Quality-Manag
+# Defect-Analysis-of-Electric-Circuit-Boards-using-Statistical-Process-Control-SPC-for-Quality-Mgmt.
 - This project is about considering a hypothetical company which manufactures Electric Circuit Boards (ECB). 
 - During the quality control the boards are checked for their quality and only two outcomes are expected: either the circuit boards are defective
 (have some defects/don’t work properly/do not pass the quality tests) or they pass the quality checks and are packaged to be shipped or placed in ready to use inventory. 
