@@ -6,3 +6,23 @@
 - Their quality statistics can make or break equipment and which in turn causes disruption in manufacturing, supply chain, logistics.  
 - The defective units are recorded, their output rate is monitored, and based on these analysis is done to check the quality of the ECBs. 
 - This analysis is done through the Statistical Process Control using the various quality tools and techniques for the enhancement of the quality control in the manufacturing.
+
+#
+![alt-text](quality-control2.gif)
+
+# Control Chart Selection Decision Tree
+![alt-text](img/control-chart_selection.png)
+
+# P-Chart For Attribute Data
+![alt-text](img/Pchart.png)
+
+# nP-Chart 
+![alt-text](img/nPchart.png)
+
+# Process Capability Analysis: Minitab
+![alt-text](img/process-capability_minitab.jpg)
+
+# Root Cause Analysis: Fishbone Diagram
+![alt-text](img/fishbone.jpg)
+
+
